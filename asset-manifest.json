@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RULETA-BGH/static/css/main.ddd32fd5.css",
+    "main.js": "/RULETA-BGH/static/js/main.b71bbb3c.js",
+    "static/media/ruleta.png": "/RULETA-BGH/static/media/ruleta.54d552ee0aefffc3cc12.png",
+    "static/media/proximanova-semibold.otf": "/RULETA-BGH/static/media/proximanova-semibold.fdb7f67a000437dc1222.otf",
+    "static/media/logo.png": "/RULETA-BGH/static/media/logo.f9ad1de00259fff25ad9.png",
+    "static/media/centro.png": "/RULETA-BGH/static/media/centro.aeb0fae7484fabc7ea9e.png",
+    "index.html": "/RULETA-BGH/index.html",
+    "main.ddd32fd5.css.map": "/RULETA-BGH/static/css/main.ddd32fd5.css.map",
+    "main.b71bbb3c.js.map": "/RULETA-BGH/static/js/main.b71bbb3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd32fd5.css",
+    "static/js/main.b71bbb3c.js"
+  ]
+}
