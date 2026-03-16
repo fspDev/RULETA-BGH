@@ -10,13 +10,13 @@ function Ruleta({ onResult }) {
   const [isSpinning, setIsSpinning] = useState(false);
 
   const sectores = [
-    { id: 1, prob: 8,  centro: 22,  texto: "Ganaste el Primer Premio" },
+    { id: 1, prob: 8,  centro: 22,  texto: "Ganaste 15% OFF en stock" },
     { id: 2, prob: 13,  centro: 67,  texto: "Seguí disfrutando de NPLAY" },
-    { id: 3, prob: 15, centro: 112, texto: "Ganaste el Segundo Premio" },
+    { id: 3, prob: 15, centro: 112, texto: "Ganaste 10% OFF en stock" },
     { id: 4, prob: 8,  centro: 157, texto: "Tirá de nuevo" },
-    { id: 5, prob: 23, centro: 202, texto: "Ganaste el Tercer Premio" },
+    { id: 5, prob: 23, centro: 202, texto: "Ganaste 5% OFF en stock" },
     { id: 6, prob: 18, centro: 247, texto: "Seguí disfrutando de NPLAY" },
-    { id: 7, prob: 0, centro: 292, texto: "Ganaste el Tercer Premio" },
+    { id: 7, prob: 0, centro: 292, texto: "Ganaste 5% OFF en stock" },
     { id: 8, prob: 10, centro: 337, texto: "Tirá de nuevo" },
   ];
 
